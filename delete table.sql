@@ -1,0 +1,1 @@
+delete from installments_paid
